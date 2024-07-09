@@ -9,13 +9,13 @@ This project demonstrates the use of Aspect-Oriented Programming (AOP) in a Spri
 - Weaving: The process of applying aspects to a target object to create a new proxy object with the added behavior.
 
 ### Features:
--Logging Aspects: Intercepts method calls to log execution details.
--Security Aspects: Checks user authentication and authorization at method execution points.
--Transaction Management: Manages database transactions declaratively.
--Dynamic and CGLIB Proxies: Demonstrates the use of dynamic proxies and CGLIB proxies for creating proxy objects.
+- Logging Aspects: Intercepts method calls to log execution details.
+- Security Aspects: Checks user authentication and authorization at method execution points.
+- Transaction Management: Manages database transactions declaratively.
+- Dynamic and CGLIB Proxies: Demonstrates the use of dynamic proxies and CGLIB proxies for creating proxy objects.
 
 ### Technologies Used:
-Spring Boot
-Spring AOP
-AspectJ
-Java
+Spring Boot <br/>
+Spring AOP <br/>
+AspectJ <br/>
+Java 
